@@ -21,5 +21,11 @@ namespace dz
         {
             Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form fr = new Form();
+            fr.Show();
+        }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz", "dz.csproj", "{DA241645-2F75-47EE-BD89-3444F0A67CC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form2", "..\form2\form2.csproj", "{A4313551-890C-4800-A12E-3E3939D757BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DA241645-2F75-47EE-BD89-3444F0A67CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA241645-2F75-47EE-BD89-3444F0A67CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA241645-2F75-47EE-BD89-3444F0A67CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4313551-890C-4800-A12E-3E3939D757BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4313551-890C-4800-A12E-3E3939D757BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4313551-890C-4800-A12E-3E3939D757BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4313551-890C-4800-A12E-3E3939D757BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
