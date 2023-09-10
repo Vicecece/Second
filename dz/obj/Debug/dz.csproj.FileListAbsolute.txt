@@ -1,0 +1,11 @@
+C:\Users\ArmaRtek\source\repos\Second\dz\bin\Debug\dz.exe.config
+C:\Users\ArmaRtek\source\repos\Second\dz\bin\Debug\dz.exe
+C:\Users\ArmaRtek\source\repos\Second\dz\bin\Debug\dz.pdb
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.csproj.AssemblyReference.cache
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.Form1.resources
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.Properties.Resources.resources
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.csproj.GenerateResource.cache
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.exe
+C:\Users\ArmaRtek\source\repos\Second\dz\obj\Debug\dz.pdb
